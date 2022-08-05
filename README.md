@@ -27,4 +27,9 @@ Check the extra features like clipboard history, 1Password and all the websearch
 
 ## Debug
 When you get an Python error on trying out a workflow, follow this [tutorial](https://www.alfredapp.com/help/kb/python-2-monterey/).
+If you get an error that the [php language does not exist]()https://www.alfredapp.com/blog/releases/alfred-4-6-ready-for-macos-monterey/, install it via homebrew.
+```
+brew install php
+```
+
 Also here is a [list](https://github.com/alfredapp/updated-third-party-python2-workflows) of workflows which are updated to the needed Python Version.
