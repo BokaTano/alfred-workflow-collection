@@ -4,7 +4,7 @@ Alfred workflows can only be used with the Powerpack.
 
 ## Workflows
 ### Video Conferences
-Proposes next video conference from calender and opens it, when pressed enter.
+Proposes next video conference from calender and opens it, when pressed enter. [website](https://www.deanishe.net/post/2020/05/workflow-video-conferences/)
 
 ### HTTP Response Code
 Gives you the description for a http response code
@@ -17,6 +17,9 @@ Gives you all the functionality of the website and puts the actual emoji in your
 
 ### Github (&enterprise)
 Proposes github and github enterprise repositories and opens them on click.
+
+### Word Search
+Proposes synonyms, antinyms, rhyming words for your word. [website](https://github.com/jun6lee/Alfred-WordSearch/releases/tag/v2.0.2)
 
 ### Extra Alfred Features
 Check the extra features like clipboard history, 1Password and all the websearch features like google maps, translate and many more.
